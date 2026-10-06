@@ -5,5 +5,7 @@ HTML design for a simple time table
 Lab 3
 <img width="1863" height="948" alt="image" src="https://github.com/user-attachments/assets/7303141d-ce76-4b19-b963-ce48399f1092" />
 
+Lab 4
+<img width="1376" height="706" alt="image" src="https://github.com/user-attachments/assets/49a3f8a2-dc09-4aaf-93a8-e845586eb2c1" />
 
 
